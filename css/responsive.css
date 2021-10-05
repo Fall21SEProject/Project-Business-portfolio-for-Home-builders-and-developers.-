@@ -1,0 +1,145 @@
+
+@media (max-width: 729.98px){
+ /*.navbar-brand2 .positon-absolute img {
+   padding: 20px;
+   position: relative;
+   top: -15px;
+   left: -26px;*/
+   .navbar-brand2.position-absolute img {
+    padding: 20px;
+    position: relative;
+    left: -16px;
+    top: -15px;
+  }
+  .container .p{
+    font-size: 20px;
+    top: 83px;
+  }
+  .navbar-light .navbar-brand {
+    color: rgba(0, 0, 0, 0.9);
+    font-size: 12px;
+  }
+  .project img {
+    padding: 1%;
+
+  }
+  .project{
+    padding: 0;
+    padding-left: 10%;
+  }
+}
+
+
+@media (max-width: 357.98px){
+
+
+  .navbar-light .navbar-brand {
+    color: rgba(0, 0, 0, 0.9);
+    font-size: 11px;
+} 
+ /* .navbar-light .navbar-brand2 img{
+    color: rgba(0, 0, 0, 0.9);
+    font-size: smaller;
+    left: -27%;
+}*/
+
+  .navbar-brand2.position-absolute img {
+  padding: 0;
+  position: relative;
+  left: -30px;
+  top: -15px;
+ }
+ .navbar-light .navbar-brand2 {
+  color: rgba(0, 0, 0, 0.9);
+  font-size: smaller;
+  left: 45%;
+ }
+
+
+  .navbar-light .navbar-brand2 {
+    color: rgba(0, 0, 0, 0.9);
+    font-size: smaller;
+    left: 0%;
+}
+  .container .p{
+    font-size: 10px;
+    left: 0px;
+}
+.project{
+  padding: 0;
+}
+
+.footer.site-footer.bg-dark {
+  background-color: #000;
+}
+
+
+
+}
+
+
+@media (min-width: 292.98px){
+  .footer.site-footer.bg-dark {
+    background-color: #000;
+  }
+
+
+  .bg-dark{
+    background-color: #006fe6;
+  }
+}
+
+/* logo below name*/
+.container .p{
+  font-size: 20px;
+}
+.project{
+  padding: 0;
+}
+.project img {
+  padding: 1%;
+}
+.project .project-name{
+  text-align: center;
+  font-weight: 800;
+  font-size: 24px;
+}
+
+
+/* pics*/
+.pics{
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pics a{
+  padding: 10px;
+  
+}
+
+@media (max-width: 729.98px){
+  .pics{
+    display: block;
+  }
+  .pics a{
+    padding: 5px;
+    margin: 2px;
+  }
+  .pics a img{
+    padding: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  }
+}
+
+@media (max-width: 557.98px){
+  .pics a{
+    padding: 2px;
+  }
+  .pics a img{
+    padding: 6px;
+  }
+}
