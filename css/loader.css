@@ -1,0 +1,46 @@
+/*
+	[Table of contents]
+
+	## Site Loader
+	
+*/
+
+
+/* ## Site Loader */
+
+.preload {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 99999;
+    transition: opacity 2.5s ease-in-out;
+}
+
+.preload-finish {
+    opacity: 0%;
+    pointer-events: none;
+}
+
+
+/*.loader .loader-gif {
+	top: 13%;
+	left: 21%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #4b52db;
+	height: 60px;
+	width: 60px;
+    position: absolute; 
+    
+}
+.loader .loader-gif .img{
+    display: flex;
+    align-items: center;
+
+}*/
