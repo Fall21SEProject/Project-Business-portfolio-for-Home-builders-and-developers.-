@@ -5,28 +5,25 @@
 	
 */
 
-
 /* ## Site Loader */
-
 .preload {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    top: 0;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 99999;
-    transition: opacity 2.5s ease-in-out;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;  
+	top: 0;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	z-index: 99999;
+	transition:  opacity 2.5s ease-in-out; 
 }
 
-.preload-finish {
-    opacity: 0%;
-    pointer-events: none;
+.preload-finish{
+	opacity: 0%;
+	pointer-events: none;
 }
-
 
 /*.loader .loader-gif {
 	top: 13%;

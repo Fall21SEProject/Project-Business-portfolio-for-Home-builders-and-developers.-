@@ -1,303 +1,214 @@
 /* button for on click popup*/
-
 .btn-outline-primary2 {
     color: #007bff;
     background-color: transparent;
     background-image: none;
-    border-color: #007bff;
-}
-
-.btn-outline-primary2:hover {
-    color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
-}
-
-.btn-outline-primary2:focus,
-.btn-outline-primary2.focus {
-    -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-}
-
-.btn-outline-primary2.disabled,
-.btn-outline-primary2:disabled {
-    color: #007bff;
-    background-color: transparent;
-}
-
-.btn-outline-primary2:not(:disabled):not(.disabled):active,
-.btn-outline-primary2:not(:disabled):not(.disabled).active,
-.show>.btn-outline-primary2.dropdown-toggle {
-    color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
-}
-
-.btn-outline-primary2:not(:disabled):not(.disabled):active:focus,
-.btn-outline-primary2:not(:disabled):not(.disabled).active:focus,
-.show>.btn-outline-primary2.dropdown-toggle:focus {
-    -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-}
-
+    border-color: #007bff; }
+    .btn-outline-primary2:hover {
+      color: #fff;
+      background-color: #007bff;
+      border-color: #007bff; }
+    .btn-outline-primary2:focus, .btn-outline-primary2.focus {
+      -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+      box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5); }
+    .btn-outline-primary2.disabled, .btn-outline-primary2:disabled {
+      color: #007bff;
+      background-color: transparent; }
+    .btn-outline-primary2:not(:disabled):not(.disabled):active, .btn-outline-primary2:not(:disabled):not(.disabled).active,
+    .show > .btn-outline-primary2.dropdown-toggle {
+      color: #fff;
+      background-color: #007bff;
+      border-color: #007bff; }
+      .btn-outline-primary2:not(:disabled):not(.disabled):active:focus, .btn-outline-primary2:not(:disabled):not(.disabled).active:focus,
+      .show > .btn-outline-primary2.dropdown-toggle:focus {
+        -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+        box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5); }
 .btn.btn-outline-primary2 {
-    border-width: 2px;
-    color: #007bff;
-}
+            border-width: 2px;
+            color: #007bff; }
+            .btn.btn-outline-primary2:hover, .btn.btn-outline-primary2:focus, .btn.btn-outline-primary2:active {
+              color: #fff; }
+  
 
-.btn.btn-outline-primary2:hover,
-.btn.btn-outline-primary2:focus,
-.btn.btn-outline-primary2:active {
-    color: #fff;
-}
+ .btn-outline-primary3 {
+            color: #007bff;
+            background-color: transparent;
+            background-image: none;
+            border-color: #007bff; }
+            .btn-outline-primary3:hover {
+              color: #fff;
+              background-color: #007bff;
+              border-color: #007bff; }
+            .btn-outline-primary3:focus, .btn-outline-primary3.focus {
+              -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+              box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5); }
+            .btn-outline-primary3.disabled, .btn-outline-primary3:disabled {
+              color: #007bff;
+              background-color: transparent; }
+            .btn-outline-primary3:not(:disabled):not(.disabled):active, .btn-outline-primary3:not(:disabled):not(.disabled).active,
+            .show > .btn-outline-primary2.dropdown-toggle {
+              color: #fff;
+              background-color: #007bff;
+              border-color: #007bff; }
+              .btn-outline-primary3:not(:disabled):not(.disabled):active:focus, .btn-outline-primary3:not(:disabled):not(.disabled).active:focus,
+              .show > .btn-outline-primary3.dropdown-toggle:focus {
+                -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+                box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5); }
+          
+                .btn.btn-outline-primary3 {
+                    border-width: 2px;
+                    color: #007bff; }
+                    .btn.btn-outline-primary3:hover, .btn.btn-outline-primary3:focus, .btn.btn-outline-primary3:active {
+                      color: #fff; }
+          
 
-.btn-outline-primary3 {
-    color: #007bff;
-    background-color: transparent;
-    background-image: none;
-    border-color: #007bff;
-}
+                .btn-outline-primary4 {
+                    color: #007bff;
+                    background-color: transparent;
+                    background-image: none;
+                    border-color: #007bff; }
+                    .btn-outline-primary4:hover {
+                      color: #fff;
+                      background-color: #007bff;
+                      border-color: #007bff; }
+                    .btn-outline-primary4:focus, .btn-outline-primary4.focus {
+                      -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+                      box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5); }
+                    .btn-outline-primary4.disabled, .btn-outline-primary4:disabled {
+                      color: #007bff;
+                      background-color: transparent; }
+                    .btn-outline-primary4:not(:disabled):not(.disabled):active, .btn-outline-primary4:not(:disabled):not(.disabled).active,
+                    .show > .btn-outline-primary4.dropdown-toggle {
+                      color: #fff;
+                      background-color: #007bff;
+                      border-color: #007bff; }
+                      .btn-outline-primary4:not(:disabled):not(.disabled):active:focus, .btn-outline-primary4:not(:disabled):not(.disabled).active:focus,
+                      .show > .btn-outline-primary4.dropdown-toggle:focus {
+                        -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+                        box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5); }
+                        .btn.btn-outline-primary4 {
+                            border-width: 2px;
+                            color: #007bff; }
+                            .btn.btn-outline-primary4:hover, .btn.btn-outline-primary4:focus, .btn.btn-outline-primary4:active {
+                              color: #fff; }
+                  
 
-.btn-outline-primary3:hover {
-    color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
-}
 
-.btn-outline-primary3:focus,
-.btn-outline-primary3.focus {
-    -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-}
 
-.btn-outline-primary3.disabled,
-.btn-outline-primary3:disabled {
-    color: #007bff;
-    background-color: transparent;
-}
 
-.btn-outline-primary3:not(:disabled):not(.disabled):active,
-.btn-outline-primary3:not(:disabled):not(.disabled).active,
-.show>.btn-outline-primary2.dropdown-toggle {
-    color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
-}
 
-.btn-outline-primary3:not(:disabled):not(.disabled):active:focus,
-.btn-outline-primary3:not(:disabled):not(.disabled).active:focus,
-.show>.btn-outline-primary3.dropdown-toggle:focus {
-    -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-}
+                        .btn-outline-primary5 {
+                            color: #007bff;
+                            background-color: transparent;
+                            background-image: none;
+                            border-color: #007bff; }
+                            .btn-outline-primary5:hover {
+                              color: #fff;
+                              background-color: #007bff;
+                              border-color: #007bff; }
+                            .btn-outline-primary5:focus, .btn-outline-primary5.focus {
+                              -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+                              box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5); }
+                            .btn-outline-primary5.disabled, .btn-outline-primary5:disabled {
+                              color: #007bff;
+                              background-color: transparent; }
+                            .btn-outline-primary5:not(:disabled):not(.disabled):active, .btn-outline-primary5:not(:disabled):not(.disabled).active,
+                            .show > .btn-outline-primary2.dropdown-toggle {
+                              color: #fff;
+                              background-color: #007bff;
+                              border-color: #007bff; }
+                              .btn-outline-primary5:not(:disabled):not(.disabled):active:focus, .btn-outline-primary5:not(:disabled):not(.disabled).active:focus,
+                              .show > .btn-outline-primary5.dropdown-toggle:focus {
+                                -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+                                box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5); }
 
-.btn.btn-outline-primary3 {
-    border-width: 2px;
-    color: #007bff;
-}
+                                .btn.btn-outline-primary5 {
+                                    border-width: 2px;
+                                    color: #007bff; }
+                                    .btn.btn-outline-primary5:hover, .btn.btn-outline-primary5:focus, .btn.btn-outline-primary5:active {
+                                      color: #fff; }
+                          
 
-.btn.btn-outline-primary3:hover,
-.btn.btn-outline-primary3:focus,
-.btn.btn-outline-primary3:active {
-    color: #fff;
-}
 
-.btn-outline-primary4 {
-    color: #007bff;
-    background-color: transparent;
-    background-image: none;
-    border-color: #007bff;
-}
-
-.btn-outline-primary4:hover {
-    color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
-}
-
-.btn-outline-primary4:focus,
-.btn-outline-primary4.focus {
-    -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-}
-
-.btn-outline-primary4.disabled,
-.btn-outline-primary4:disabled {
-    color: #007bff;
-    background-color: transparent;
-}
-
-.btn-outline-primary4:not(:disabled):not(.disabled):active,
-.btn-outline-primary4:not(:disabled):not(.disabled).active,
-.show>.btn-outline-primary4.dropdown-toggle {
-    color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
-}
-
-.btn-outline-primary4:not(:disabled):not(.disabled):active:focus,
-.btn-outline-primary4:not(:disabled):not(.disabled).active:focus,
-.show>.btn-outline-primary4.dropdown-toggle:focus {
-    -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-}
-
-.btn.btn-outline-primary4 {
-    border-width: 2px;
-    color: #007bff;
-}
-
-.btn.btn-outline-primary4:hover,
-.btn.btn-outline-primary4:focus,
-.btn.btn-outline-primary4:active {
-    color: #fff;
-}
-
-.btn-outline-primary5 {
-    color: #007bff;
-    background-color: transparent;
-    background-image: none;
-    border-color: #007bff;
-}
-
-.btn-outline-primary5:hover {
-    color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
-}
-
-.btn-outline-primary5:focus,
-.btn-outline-primary5.focus {
-    -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-}
-
-.btn-outline-primary5.disabled,
-.btn-outline-primary5:disabled {
-    color: #007bff;
-    background-color: transparent;
-}
-
-.btn-outline-primary5:not(:disabled):not(.disabled):active,
-.btn-outline-primary5:not(:disabled):not(.disabled).active,
-.show>.btn-outline-primary2.dropdown-toggle {
-    color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
-}
-
-.btn-outline-primary5:not(:disabled):not(.disabled):active:focus,
-.btn-outline-primary5:not(:disabled):not(.disabled).active:focus,
-.show>.btn-outline-primary5.dropdown-toggle:focus {
-    -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-}
-
-.btn.btn-outline-primary5 {
-    border-width: 2px;
-    color: #007bff;
-}
-
-.btn.btn-outline-primary5:hover,
-.btn.btn-outline-primary5:focus,
-.btn.btn-outline-primary5:active {
-    color: #fff;
-}
 
 .btn-outline-primary6 {
-    color: #007bff;
-    background-color: transparent;
-    background-image: none;
-    border-color: #007bff;
-}
-
+  color: #007bff;
+ background-color: transparent;
+  background-image: none;
+   border-color: #007bff; }
 .btn-outline-primary6:hover {
-    color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
-}
-
-.btn-outline-primary6:focus,
-.btn-outline-primary6.focus {
-    -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-}
-
-.btn-outline-primary6.disabled,
-.btn-outline-primary6:disabled {
-    color: #007bff;
-    background-color: transparent;
-}
-
-.btn-outline-primary6:not(:disabled):not(.disabled):active,
-.btn-outline-primary6:not(:disabled):not(.disabled).active,
-.show>.btn-outline-primary6.dropdown-toggle {
-    color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
-}
-
-.btn-outline-primary6:not(:disabled):not(.disabled):active:focus,
-.btn-outline-primary6:not(:disabled):not(.disabled).active:focus,
-.show>.btn-outline-primary6.dropdown-toggle:focus {
-    -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
-}
-
+ color: #fff;
+ background-color: #007bff;
+border-color: #007bff; }
+.btn-outline-primary6:focus, .btn-outline-primary6.focus {
+-webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5); }
+.btn-outline-primary6.disabled, .btn-outline-primary6:disabled {
+color: #007bff;
+background-color: transparent; }
+.btn-outline-primary6:not(:disabled):not(.disabled):active, .btn-outline-primary6:not(:disabled):not(.disabled).active,
+.show > .btn-outline-primary6.dropdown-toggle {
+color: #fff;
+background-color: #007bff;
+border-color: #007bff; }
+.btn-outline-primary6:not(:disabled):not(.disabled):active:focus, .btn-outline-primary6:not(:disabled):not(.disabled).active:focus,
+.show > .btn-outline-primary6.dropdown-toggle:focus {
+-webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5); }
+                                  
 .btn.btn-outline-primary6 {
     border-width: 2px;
-    color: #007bff;
-}
+    color: #007bff; }
+    .btn.btn-outline-primary6:hover, .btn.btn-outline-primary6:focus, .btn.btn-outline-primary6:active {
+      color: #fff; }
 
-.btn.btn-outline-primary6:hover,
-.btn.btn-outline-primary6:focus,
-.btn.btn-outline-primary6:active {
-    color: #fff;
-}
+
+
+            
+                  
 
 
 /* for popup*/
-
-#contactform {
+#contactform{
+    
     position: relative;
     display: none;
+    
     padding-top: 5%;
     width: 400px;
     text-align: center;
     background: #fff;
     position: fixed;
-    top: 50%;
-    left: 50%;
+    top:50%;
+    left:50%;
     z-index: 9999999;
-    transform: translate(-50%, -50%);
-    -webkit-transform: translate(-50%, -50%)
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%)
 }
-
-#contactform h2 {
+#contactform h2{
     position: relative;
     color: #000;
     font-weight: 500;
     letter-spacing: 1px;
+   
 }
-
-#contactform ul {
-    position: relative;
+#contactform ul{
+     position: relative;
+  
 }
-
-#contactform ul li {
+#contactform ul li{
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
-    left: 0;
+    left: 0;  
     color: #000;
     list-style: none;
-    margin: 4px 0;
+    margin: 4px 0;    
     transition: 0.5s;
     cursor: pointer;
 }
-
-#contactform ul li::before {
+#contactform ul li::before{
     content: '';
     position: absolute;
     width: 100%;
@@ -307,28 +218,25 @@
     transform-origin: bottom;
     transition: 0.5s;
 }
-
-#contactform ul li:hover::before {
+#contactform ul li:hover::before{
     transform: scaleX(1);
 }
-
-#contactFormul li:hover {
+#contactFormul li:hover{
     left: 10px;
 }
-
-#contactform ul li span {
+#contactform ul li span{
     position: relative;
     padding: 8px;
     display: inline-block;
     z-index: 1;
     transition: 0.5s;
 }
-
-#contactform ul li:hover span {
+#contactform ul li:hover span{
     color: #111;
+
 }
 
-#contactform .close-btn {
+#contactform .close-btn{
     width: 35px;
     height: 35px;
     display: inline-block;
@@ -344,52 +252,51 @@
     line-height: 190%;
     text-align: center;
 }
+#contactform .close-btn:hover{
 
-#contactform .close-btn:hover {
     transform: rotate(180deg);
 }
 
-#contactform2 {
+
+#contactform2{
     position: relative;
     display: none;
+   
     padding: 2em;
     padding-top: 5%;
     width: 400px;
     text-align: center;
     background: #fff;
     position: fixed;
-    top: 50%;
-    left: 50%;
+    top:50%;
+    left:50%;
     z-index: 9999999;
-    transform: translate(-50%, -50%);
-    -webkit-transform: translate(-50%, -50%)
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%)
 }
-
-#contactform2 h2 {
+#contactform2 h2{
     position: relative;
     color: #000;
     font-weight: 500;
     letter-spacing: 1px;
 }
-
-#contactform2 ul {
-    position: relative;
+#contactform2 ul{
+     position: relative;
+  
 }
-
-#contactform2 ul li {
+#contactform2 ul li{
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
-    left: 0;
+    left: 0;  
     color: #000;
     list-style: none;
-    margin: 4px 0;
+    margin: 4px 0;    
     transition: 0.5s;
     cursor: pointer;
 }
-
-#contactform2 ul li::before {
+#contactform2 ul li::before{
     content: '';
     position: absolute;
     width: 100%;
@@ -399,12 +306,10 @@
     transform-origin: bottom;
     transition: 0.5s;
 }
-
-#contactform2 ul li:hover::before {
+#contactform2 ul li:hover::before{
     transform: scaleX(1);
 }
-
-#contactform2 .close-btn {
+#contactform2 .close-btn{
     width: 35px;
     height: 35px;
     display: inline-block;
@@ -420,28 +325,26 @@
     line-height: 190%;
     text-align: center;
 }
+#contactform2 .close-btn:hover{
 
-#contactform2 .close-btn:hover {
     transform: rotate(180deg);
 }
-
-#contactForm2 ul li:hover {
+#contactForm2 ul li:hover{
     left: 10px;
 }
-
-#contactform2 ul li span {
+#contactform2 ul li span{
     position: relative;
     padding: 8px;
     display: inline-block;
     z-index: 1;
     transition: 0.5s;
 }
-
-#contactform2 ul li:hover span {
+#contactform2 ul li:hover span{
     color: #111;
 }
 
-#contactform3 {
+
+#contactform3{
     position: relative;
     display: none;
     z-index: 9999999;
@@ -450,37 +353,34 @@
     text-align: center;
     background: #fff;
     position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -webkit-transform: translate(-50%, -50%)
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%)
 }
-
-#contactform3 h2 {
+#contactform3 h2{
     position: relative;
     color: #000;
     font-weight: 500;
     letter-spacing: 1px;
 }
-
-#contactform3 ul {
-    position: relative;
+#contactform3 ul{
+     position: relative;
+  
 }
-
-#contactform3 ul li {
+#contactform3 ul li{
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
-    left: 0;
+    left: 0;  
     color: #000;
     list-style: none;
-    margin: 4px 0;
+    margin: 4px 0;    
     transition: 0.5s;
     cursor: pointer;
 }
-
-#contactform3 ul li::before {
+#contactform3 ul li::before{
     content: '';
     position: absolute;
     width: 100%;
@@ -490,16 +390,13 @@
     transform-origin: bottom;
     transition: 0.5s;
 }
-
-#contactform3 ul li:hover::before {
+#contactform3 ul li:hover::before{
     transform: scaleX(1);
 }
-
-#contactFormul li:hover {
+#contactFormul li:hover{
     left: 10px;
 }
-
-#contactform3 .close-btn {
+#contactform3 .close-btn{
     width: 35px;
     height: 35px;
     display: inline-block;
@@ -515,24 +412,23 @@
     line-height: 190%;
     text-align: center;
 }
+#contactform3 .close-btn:hover{
 
-#contactform3 .close-btn:hover {
     transform: rotate(180deg);
 }
-
-#contactform3 ul li span {
+#contactform3 ul li span{
     position: relative;
     padding: 8px;
     display: inline-block;
     z-index: 1;
     transition: 0.5s;
 }
-
-#contactform3 ul li:hover span {
+#contactform3 ul li:hover span{
     color: #111;
 }
 
-#contactform4 {
+
+#contactform4{
     position: relative;
     display: none;
     z-index: 9999999;
@@ -541,37 +437,34 @@
     text-align: center;
     background: #fff;
     position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -webkit-transform: translate(-50%, -50%)
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%)
 }
-
-#contactform4 h2 {
+#contactform4 h2{
     position: relative;
     color: #000;
     font-weight: 500;
     letter-spacing: 1px;
 }
-
-#contactform4 ul {
-    position: relative;
+#contactform4 ul{
+     position: relative;
+  
 }
-
-#contactform4 ul li {
+#contactform4 ul li{
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
-    left: 0;
+    left: 0;  
     color: #000;
     list-style: none;
-    margin: 4px 0;
+    margin: 4px 0;    
     transition: 0.5s;
     cursor: pointer;
 }
-
-#contactform4 ul li::before {
+#contactform4 ul li::before{
     content: '';
     position: absolute;
     width: 100%;
@@ -581,16 +474,13 @@
     transform-origin: bottom;
     transition: 0.5s;
 }
-
-#contactform4 ul li:hover::before {
+#contactform4 ul li:hover::before{
     transform: scaleX(1);
 }
-
-#contactFormul li:hover {
+#contactFormul li:hover{
     left: 10px;
 }
-
-#contactform4 .close-btn {
+#contactform4 .close-btn{
     width: 35px;
     height: 35px;
     display: inline-block;
@@ -606,24 +496,24 @@
     line-height: 190%;
     text-align: center;
 }
+#contactform4 .close-btn:hover{
 
-#contactform4 .close-btn:hover {
     transform: rotate(180deg);
 }
-
-#contactform4 ul li span {
+#contactform4 ul li span{
     position: relative;
     padding: 8px;
     display: inline-block;
     z-index: 1;
     transition: 0.5s;
 }
-
-#contactform4 ul li:hover span {
+#contactform4 ul li:hover span{
     color: #111;
 }
 
-#contactform5 {
+
+
+#contactform5{
     position: relative;
     display: none;
     z-index: 9999999;
@@ -632,37 +522,34 @@
     text-align: center;
     background: #fff;
     position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -webkit-transform: translate(-50%, -50%)
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%)
 }
-
-#contactform5 h2 {
+#contactform5 h2{
     position: relative;
     color: #000;
     font-weight: 500;
     letter-spacing: 1px;
 }
-
-#contactform5 ul {
-    position: relative;
+#contactform5 ul{
+     position: relative;
+  
 }
-
-#contactform5 ul li {
+#contactform5 ul li{
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
-    left: 0;
+    left: 0;  
     color: #000;
     list-style: none;
-    margin: 4px 0;
+    margin: 4px 0;    
     transition: 0.5s;
     cursor: pointer;
 }
-
-#contactform5 ul li::before {
+#contactform5 ul li::before{
     content: '';
     position: absolute;
     width: 100%;
@@ -672,16 +559,13 @@
     transform-origin: bottom;
     transition: 0.5s;
 }
-
-#contactform5 ul li:hover::before {
+#contactform5 ul li:hover::before{
     transform: scaleX(1);
 }
-
-#contactFormul li:hover {
+#contactFormul li:hover{
     left: 10px;
 }
-
-#contactform5 .close-btn {
+#contactform5 .close-btn{
     width: 35px;
     height: 35px;
     display: inline-block;
@@ -697,24 +581,24 @@
     line-height: 190%;
     text-align: center;
 }
+#contactform5 .close-btn:hover{
 
-#contactform5 .close-btn:hover {
     transform: rotate(180deg);
 }
 
-#contactform5 ul li span {
+#contactform5 ul li span{
     position: relative;
     padding: 8px;
     display: inline-block;
     z-index: 1;
     transition: 0.5s;
 }
-
-#contactform5 ul li:hover span {
+#contactform5 ul li:hover span{
     color: #111;
 }
 
-#contactform6 {
+
+#contactform6{
     position: relative;
     display: none;
     z-index: 9999999;
@@ -723,37 +607,34 @@
     text-align: center;
     background: #fff;
     position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -webkit-transform: translate(-50%, -50%)
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%)
 }
-
-#contactform6 h2 {
+#contactform6 h2{
     position: relative;
     color: #000;
     font-weight: 500;
     letter-spacing: 1px;
 }
-
-#contactform6 ul {
-    position: relative;
+#contactform6 ul{
+     position: relative;
+  
 }
-
-#contactform6 ul li {
+#contactform6 ul li{
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
-    left: 0;
+    left: 0;  
     color: #000;
     list-style: none;
-    margin: 4px 0;
+    margin: 4px 0;    
     transition: 0.5s;
     cursor: pointer;
 }
-
-#contactform6 ul li::before {
+#contactform6 ul li::before{
     content: '';
     position: absolute;
     width: 100%;
@@ -763,24 +644,20 @@
     transform-origin: bottom;
     transition: 0.5s;
 }
-
-#contactform6 ul li:hover::before {
+#contactform6 ul li:hover::before{
     transform: scaleX(1);
 }
-
-#contactform6 ul li:hover {
+#contactform6 ul li:hover{
     left: 10px;
 }
-
-#contactform6 ul li span {
+#contactform6 ul li span{
     position: relative;
     padding: 8px;
     display: inline-block;
     z-index: 1;
     transition: 0.5s;
 }
-
-#contactform6 .close-btn {
+#contactform6 .close-btn{
     width: 35px;
     height: 35px;
     display: inline-block;
@@ -796,11 +673,14 @@
     line-height: 190%;
     text-align: center;
 }
+#contactform6 .close-btn:hover{
 
-#contactform6 .close-btn:hover {
     transform: rotate(180deg);
 }
-
-#contactform6 ul li:hover span {
+#contactform6 ul li:hover span{
     color: #111;
 }
+
+
+
+
