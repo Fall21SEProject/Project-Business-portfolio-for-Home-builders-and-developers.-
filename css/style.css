@@ -1016,10 +1016,10 @@ header .navbar .cta-btn a:hover {
     left: 9%;
 }
 
-.contact {
+/**.contact {
     background: url(../img/RDS.jpg) no-repeat fixed center;
     background-size: cover;
-}
+}**/
 
 .image {
     padding: 10px;
